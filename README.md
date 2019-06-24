@@ -2,4 +2,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Jessie Wang for the Lighthouse Labs Web Development Bootcamp. 
+This repository contains all of the notes taken by [Jessie Wang](https://github.com/JessieW0010) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+
+
